@@ -1,0 +1,2 @@
+# Digital-Light-Processing-DLP-Resin-3D-Printers
+3D printing, or additive manufacturing, is the construction of a three dimensional object from a CAD model or a digital 3D model. The term "3D  printing" can refer to a variety of processes in which material is deposited, joined  or solidified under computer control to create a three dimentional object, with  material being added together (such as plastics, liquids or powder grains being  fused together), typically layer by layer.
